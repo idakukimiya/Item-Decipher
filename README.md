@@ -58,9 +58,11 @@ The goal of this project is to create an application that can write and save not
 
 [GitHub URL Project]("https://github.com/idakukimiya/Item-Decipher")
 
-![gif](.public/assets/gif/Item-Decipher.gif)
+![gif demo](./public/assets/gif/Item-Decipher.gif)
 
 ## Test
+
+Click on the [Deployed URL]("https://ancient-caverns-92488.herokuapp.com/notes"), should take you to the app.
 
 ## Questions
 
