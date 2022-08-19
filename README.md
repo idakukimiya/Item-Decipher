@@ -48,11 +48,17 @@ The goal of this project is to create an application that can write and save not
 
 ## Screenshot
 
-![screenshot]()
+![screenshot](./public/assets/image/screenshot1.png)
+
+![screenshot](./public/assets/image/screenshot2.png)
 
 ## Links to Project
 
-[]("")
+[Deployed URL]("https://ancient-caverns-92488.herokuapp.com/notes")
+
+[GitHub URL Project]("https://github.com/idakukimiya/Item-Decipher")
+
+![gif](.public/assets/gif/Item-Decipher.gif)
 
 ## Test
 
@@ -63,4 +69,3 @@ The goal of this project is to create an application that can write and save not
   [GitHub](https://github.com/https://github.com/idakukimiya)
 
   [Email: kukimiya.ida@gmail.com](mailto:kukimiya.ida@gmail.com)
-  
